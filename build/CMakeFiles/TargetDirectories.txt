@@ -1,3 +1,0 @@
-/home/iliasu07/Documents/GitHub/kv-store/build/CMakeFiles/server.dir
-/home/iliasu07/Documents/GitHub/kv-store/build/CMakeFiles/edit_cache.dir
-/home/iliasu07/Documents/GitHub/kv-store/build/CMakeFiles/rebuild_cache.dir
